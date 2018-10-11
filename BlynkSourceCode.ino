@@ -2,9 +2,9 @@
 #include <ESP8266_Lib.h>
 #include <BlynkSimpleShieldEsp8266.h>
 #include <dht11.h>
-char auth[] = "eef0ea91dd2a432c881cbff1a749af25";
+char auth[] = "eef0ea91dd2a432c881cbff*********";
 char ssid[] = "kafamagore";
-char pass[] = "eiqu4609";
+char pass[] = "password";
 #define EspSerial Serial
 #define DHT11PIN 7
 dht11 DHT11;
