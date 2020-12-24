@@ -2,8 +2,8 @@
 
 Automated Greenhouse was built with Arduino Mega 2560.
 
-* Automatic Control System
-* Remote Control System
+* Automatic Control System,
+* Remote Control System,
 * Ventilation system,
 * Irrigation System,
 * Lighting System
@@ -17,8 +17,8 @@ Access is provided both via mobile application and thingspeak.
 
 Otomatikleştirilmiş Sera Arduino Mega 2560 ile yapılmıştır. 
 
-* Otomatik Kontrol Sistemi
-* Uzaktan Kontrol Sistemi
+* Otomatik Kontrol Sistemi,
+* Uzaktan Kontrol Sistemi,
 * Havalandırma Sistemi, 
 * Sulama Sistemi, 
 * Işıklandırma Sistemi
