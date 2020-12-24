@@ -11,7 +11,9 @@ Automated Greenhouse was built with Arduino Mega 2560.
 Access is provided both via mobile application and thingspeak.
 
 ********
-**Arduino ile Otomatikleştirilmiş Sera (Lisans Tezi) **
+
+
+**Arduino ile Otomatikleştirilmiş Sera (Lisans Tezi)**
 
 Otomatikleştirilmiş Sera Arduino Mega 2560 ile yapılmıştır. 
 
